@@ -9,7 +9,12 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VietHann&theme=noctis_minimus" alt="Profile Details" />
 </p>
 
+
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VietHann&theme=noctis_minimus" alt="Stats" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VietHann&theme=noctis_minimus&utcOffset=8" alt="Productive Time" />
+</p>
+<h4 align="left">Tham gia dự án nuôi tôi:</h3>
+<p align="center">
+  <img src="./qr.jpg" alt="QR Code"/>
 </p>

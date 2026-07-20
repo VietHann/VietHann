@@ -1,20 +1,18 @@
-<h1 align="center">Hi 👋, I'm Viet</h1>
-<h3 align="center">AI Research Engineer</h3>
+# Viet Le
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=viethann&label=Profile%20views&color=0e75b6&style=flat" alt="viethann" />
-</p>
+**AI Research Engineer**
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VietHann&theme=noctis_minimus" alt="Profile Details" />
-</p>
+I work on developing and evaluating machine learning systems, with a focus on large language models, multimodal learning, and efficient AI.
 
+My work covers the full research lifecycle—from reading papers and designing experiments to implementing models, analyzing results, and building practical systems.
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VietHann&theme=noctis_minimus" alt="Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VietHann&theme=noctis_minimus&utcOffset=8" alt="Productive Time" />
-</p>
-<h4 align="left">Tham gia dự án nuôi tôi:</h3>
-<p align="center">
-  <img src="./qr.jpg" alt="QR Code"/>
-</p>
+## Areas of Focus
+
+* Large Language Models
+* Multimodal Learning
+* Model Evaluation and Optimization
+* Applied Machine Learning
+
+## Current Interests
+
+I am particularly interested in model reasoning, efficient training and inference, and turning research ideas into reliable implementations.

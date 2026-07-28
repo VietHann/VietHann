@@ -12,6 +12,8 @@ My work covers the full research lifecycle—from reading papers and designing e
 * Multimodal Learning
 * Model Evaluation and Optimization
 * Applied Machine Learning
+* Efficient Training and Inference
+* Research Engineering and Experimentation
 
 ## Current Interests
 
